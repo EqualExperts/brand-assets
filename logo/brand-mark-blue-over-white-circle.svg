@@ -1,1 +1,14 @@
-<svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 560 560"><defs><style>.cls-1{fill:#fff;}.cls-2{fill:#1795d4;}</style></defs><title>Equal_Experts_Mark_RGB_White_Circle</title><circle class="cls-1" cx="280" cy="280" r="280"/><rect class="cls-2" x="214.17" y="221.28" width="131.67" height="39.51"/><rect class="cls-2" x="214.17" y="298.65" width="131.67" height="39.52"/><polygon class="cls-2" points="129.18 144 129.18 183.52 129.18 376.46 129.18 416 168.71 416 248.24 416 248.24 376.46 168.71 376.46 168.71 183.52 248.24 183.52 248.24 144 168.71 144 129.18 144"/><polygon class="cls-2" points="391.31 144 309.58 144 309.58 183.52 391.31 183.52 391.31 376.46 309.58 376.46 309.58 416 391.31 416 430.82 416 430.82 376.46 430.82 183.52 430.82 144 391.31 144"/></svg>
+<svg width="273" height="273" viewBox="0 0 273 273" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g clip-path="url(#clip0_2163_243)">
+<path d="M136.5 273C211.887 273 273 211.887 273 136.5C273 61.1131 211.887 0 136.5 0C61.1131 0 0 61.1131 0 136.5C0 211.887 61.1131 273 136.5 273Z" fill="white"/>
+<path d="M168.597 107.874H104.408V127.135H168.597V107.874Z" fill="#1795D4"/>
+<path d="M168.597 145.592H104.408V164.858H168.597V145.592Z" fill="#1795D4"/>
+<path d="M62.9753 70.2V89.466V183.524V202.8H82.2461H121.017V183.524H82.2461V89.466H121.017V70.2H82.2461H62.9753Z" fill="#1795D4"/>
+<path d="M190.764 70.2H150.92V89.466H190.764V183.524H150.92V202.8H190.764H210.025V183.524V89.466V70.2H190.764Z" fill="#1795D4"/>
+</g>
+<defs>
+<clipPath id="clip0_2163_243">
+<rect width="273" height="273" fill="white"/>
+</clipPath>
+</defs>
+</svg>
